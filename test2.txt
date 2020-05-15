@@ -1,0 +1,7 @@
+index = 0$
+
+begin {
+	print(index)$
+	index++$
+}
+end(index < 5)$

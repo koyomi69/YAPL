@@ -1,0 +1,10 @@
+i = 0$
+i++$
+
+if (i >= 2) then{
+	i++$
+	print("You were able to achieve it")$
+} 
+else {
+	print ("Tough Luck")$
+}$
