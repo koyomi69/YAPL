@@ -7,7 +7,7 @@ There are two ways of running this file:
 
 python Yaple_Contra.py Read fileName
 
-fileName here refers the file from which you're the data
+fileName here refers to the file from which you're reading the data
 
 For example: python Yaple_Contra.py Read test1.txt
 
